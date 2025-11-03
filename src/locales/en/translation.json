@@ -1,0 +1,26 @@
+{
+  "nav_bar_title": "MOVIER",
+  "nav_bar_login_button": "LOGIN",
+  "nav_bar_sign_up_button": "SIGN UP",
+
+  "nav_search_placeholder": "Search a movie",
+  "nav_bar_search_not_found": "🫤 Sorry! Nothing found here...",
+  "nav_bar_search_start_typing": "Type a movie name",
+
+  "home_welcome_message": "Find the best movie to watch NOW!",
+  "home_sub_welcome_message": "Make your own wish list to don't forget a master piece",
+  "home_create_account_button": "+ CREATE ACCOUNT",
+  "home_grid_title": "Trending top movies",
+  "home_loading_movies": "Loading Movies ...",
+  "home_error_loading_movies": "Error while loading movies...",
+  "home_show_more_button": "SHOW MORE",
+
+  "discover_filters": "Filters",
+  "discover_genres": "Genres:",
+  "discover_order": "Order by:",
+  "discover_list": "List",
+  "discover_page": "Page:",
+  "discover_apply_button": "APPLY",
+
+  "movie_page_users_reviews ": "Users Reviews:"
+}

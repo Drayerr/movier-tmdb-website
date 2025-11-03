@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300 ease-in-out;
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    overflow-x: hidden;
+  }
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.liquid-glass {
+  backdrop-filter: blur(10px) saturate(150%);
+  background-color: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
