@@ -15,10 +15,10 @@
 
 ## Screenshots
 ## Home Page
-![Home Page](https://github.com/Drayerr/movier-tmdb-website/blob/ca04cfe0d334454cf5cf847e91002bd93f7920f9/Screenshot%2001.png)
+![Home Page](https://github.com/Drayerr/movier-tmdb-website/blob/4fd76eb1a00785bd7aba1cc991f9b3251e13c7d1/Screenshot%2001.png)
 
 ## Movie Page
-![Movie Page](https://github.com/Drayerr/movier-tmdb-website/blob/ca04cfe0d334454cf5cf847e91002bd93f7920f9/Screenshot%2002.png)
+![Movie Page](https://github.com/Drayerr/movier-tmdb-website/blob/4fd76eb1a00785bd7aba1cc991f9b3251e13c7d1/Screenshot%2002.png)
 
 ## Searching Page
-![Searching Page](https://github.com/Drayerr/movier-tmdb-website/blob/ca04cfe0d334454cf5cf847e91002bd93f7920f9/Screenshot%2003.png)
+![Searching Page](https://github.com/Drayerr/movier-tmdb-website/blob/4fd76eb1a00785bd7aba1cc991f9b3251e13c7d1/Screenshot%2003.png)
